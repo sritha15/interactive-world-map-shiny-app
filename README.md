@@ -21,4 +21,4 @@ This project is an interactive web application developed using R Shiny. It featu
 - rnaturalearth
 
 ## Author
-[Your Name]
+Sritha Hadassah Duddu
